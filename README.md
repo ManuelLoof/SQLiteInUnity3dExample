@@ -3,11 +3,13 @@
 
 This is a simple step by step example how to use SQLite in Unity3d. The complete implementation you will find here in the repository.
 
-SQLLite is a lightweight, file-based database engine under public domain license. More information you find here https://www.sqlite.org/.
+SQLite is a lightweight, file-based database engine under public domain license. More information you find here https://www.sqlite.org/.
 
 It is a convenient way of implementing a simple database in Unity.
 
 This is a very simple step example how to implement SQLite in Unity3d.
+
+When you are looking for a free ready to use Unity3d plugin with LINQ support look here: https://github.com/codecoding/SQLite4Unity3d
 
 ## Implementation
 
